@@ -23,6 +23,10 @@
 
 
 reference
-https://www.youtube.com/watch?v=0VeSez1CIsw 오큘러스 기본설정
-https://www.youtube.com/watch?v=rUlpkaVzJAE&ab_channel=ShipBitShipBit 오큘러스, 유니티 개발환경 설정
-https://www.youtube.com/watch?v=gGYtahQjmWQ&t=1071s&ab_channel=Houdinist%E3%81%AE%E6%97%85Houdinist%E3%81%AE%E6%97%85 전반적인 유니티에서의 오큘러스 강의https://www.youtube.com/watch?v=weL4aRe1FRk&t=182s&ab_channel=%EC%B8%84%EC%9A%94CHUYO%EC%B8%84%EC%9A%94CHUYO "잡기" 활동시 오류 제거
+----------
+1. https://www.youtube.com/watch?v=0VeSez1CIsw 오큘러스 기본설정
+2. https://www.youtube.com/watch?v=rUlpkaVzJAE&ab_channel=ShipBitShipBit 오큘러스, 유니티 개발환경 설정
+3. https://www.youtube.com/watch?v=gGYtahQjmWQ&t=1071s&ab_channel=Houdinist%E3%81%AE%E6%97%85Houdinist%E3%81%AE%E6%97%85 전반적인 유니티에서의 오큘러스 강의
+4. https://www.youtube.com/watch?v=weL4aRe1FRk&t=182s&ab_channel=%EC%B8%84%EC%9A%94CHUYO%EC%B8%84%EC%9A%94CHUYO "잡기" 활동시 오류 제거
+5. https://www.youtube.com/watch?v=HFNzVMi5MSQ&ab_channel=JustinPBarnett-VRGameDevJustinPBarnett-VRGameDev 
+
