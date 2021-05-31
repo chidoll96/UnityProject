@@ -35,4 +35,6 @@ reference
 4. https://www.youtube.com/watch?v=weL4aRe1FRk&t=182s&ab_channel=%EC%B8%84%EC%9A%94CHUYO%EC%B8%84%EC%9A%94CHUYO "잡기" 활동시 오류 제거
 5. https://www.youtube.com/watch?v=HFNzVMi5MSQ&ab_channel=JustinPBarnett-VRGameDevJustinPBarnett-VRGameDev 
 6. https://www.youtube.com/watch?v=3cJ_uq1m-dg&ab_channel=ValemValem 문 열기 , 손잡이 설정
-7. https://www.youtube.com/watch?v=BVCNDUcnE1o       /    https://www.youtube.com/watch?v=iRW2CyQysdw&ab_channel=LandVR     /     https://kupaprogramming.tistory.com/128   자르기 
+7. https://www.youtube.com/watch?v=BVCNDUcnE1o 자르기 설정법 1
+8. https://www.youtube.com/watch?v=iRW2CyQysdw&ab_channel=LandVR 자르기 설정법 2
+9. https://kupaprogramming.tistory.com/128   자르기 설정법 3 
