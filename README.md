@@ -50,3 +50,6 @@ reference
 7. https://www.youtube.com/watch?v=BVCNDUcnE1o 자르기 설정법 1
 8. https://www.youtube.com/watch?v=iRW2CyQysdw&ab_channel=LandVR 자르기 설정법 2
 9. https://kupaprogramming.tistory.com/128   자르기 설정법 3 
+10. https://www.youtube.com/watch?v=G-K2rtiv80M&ab_channel=XenosmashGamesXenosmashGames 불(파티클) 설정법
+11. https://www.youtube.com/watch?v=zMgSq3O8FE0&ab_channel=GreenMaskGames 불(파티클) 충돌 설정법
+12. https://www.youtube.com/watch?v=VEAU95v5MO8&ab_channel=SpeedTutor 고기굽기 아이디어 (색변환)
